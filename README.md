@@ -26,7 +26,7 @@ The `ProtonMQClient` interface defines the core method of publish/subscribe mess
 
 import sdk use 
 ```go
-import msqclient "github.com/AISHU-Technology/proton-mq-sdk-go"
+import msqclient "github.com/kweaver-ai/proton-mq-sdk-go"
 ```
 
 Available value of variable `mqType`:

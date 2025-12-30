@@ -15,7 +15,7 @@ import (
 
 	"gopkg.in/yaml.v3"
 
-	"github.com/AISHU-Technology/proton-mq-sdk-go/errors"
+	"github.com/kweaver-ai/proton-mq-sdk-go/errors"
 )
 
 type MessageHandler func(msg []byte) error

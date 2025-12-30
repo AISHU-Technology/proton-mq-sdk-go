@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	mqerrors "github.com/AISHU-Technology/proton-mq-sdk-go/errors"
+	mqerrors "github.com/kweaver-ai/proton-mq-sdk-go/errors"
 )
 
 func TestJoinReturnsNil(t *testing.T) {
